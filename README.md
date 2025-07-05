@@ -88,5 +88,27 @@ A **well-designed booking system** directly impacts user satisfaction and conver
 - Accessibility increases, making the platform inclusive
 - Visual consistency builds trust and credibility
 
-Great UI/UX ensures that every user — regardless of device or background — can navigate, explore, and complete bookings easily and happily.
+Great UI/UX ensures that every user — regardless of device or background — can navigate, explore, and complete bookings easily and happily.---
+
+## 👥 Project Roles and Responsibilities
+
+A well-structured team is crucial for building a scalable and high-quality Airbnb Clone. Below are the defined roles and how each contributes to the success of the project:
+
+| Role | Responsibilities |
+|------|------------------|
+| **Project Manager** | - Oversees project timeline and progress<br>- Coordinates communication across teams<br>- Ensures deadlines and goals are met |
+| **Frontend Developers** | - Build and maintain responsive UI components<br>- Ensure cross-browser compatibility<br>- Integrate frontend with backend APIs |
+| **Backend Developers** | - Develop and manage RESTful APIs<br>- Handle authentication, data storage, and business logic<br>- Ensure performance and security of the backend |
+| **Designers** | - Create mockups and wireframes using Figma<br>- Maintain design consistency and ensure usability<br>- Collaborate closely with developers to implement UI |
+| **QA/Testers** | - Write unit and integration tests<br>- Test features manually and report bugs<br>- Ensure overall functionality and usability |
+| **DevOps Engineers** | - Set up CI/CD pipeline for deployment<br>- Manage cloud infrastructure and server configuration<br>- Ensure uptime, monitoring, and scalability |
+| **Product Owner** | - Define product requirements and user stories<br>- Prioritize the backlog based on value and feasibility<br>- Represent the needs of stakeholders and users |
+| **Scrum Master** | - Facilitate Agile ceremonies (sprint planning, stand-ups, retrospectives)<br>- Remove blockers for the team<br>- Promote continuous improvement and team collaboration |
+
+---
+
+Each team member plays a critical role in ensuring a smooth development cycle and a high-quality final product.
+
+
+
 
