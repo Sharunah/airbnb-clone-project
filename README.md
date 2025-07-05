@@ -109,6 +109,50 @@ A well-structured team is crucial for building a scalable and high-quality Airbn
 
 Each team member plays a critical role in ensuring a smooth development cycle and a high-quality final product.
 
+---
+
+## 🧩 UI Component Patterns
+
+To maintain a modular, reusable, and consistent interface across the Airbnb Clone project, we plan to build the following core UI components:
+
+---
+
+### 🔼 Navbar
+A responsive top navigation bar that appears across all pages.
+- **Logo** – Clickable to return to the homepage
+- **Search Bar** – Allows quick filtering of listings
+- **User Navigation** – Links for login/signup, profile, and bookings
+- **Responsive Menu** – Hamburger icon for mobile view
+
+---
+
+### 🏠 Property Card
+Used to display each property in a grid on the listing page.
+- **Property Image** – Thumbnail preview of the space
+- **Basic Details** – Title, price per night, location, and rating
+- **Favorite Button** – Allows users to save listings
+- **Responsive Layout** – Adjusts to different screen sizes
+
+---
+
+### 🔻 Footer
+Appears at the bottom of every page and provides useful links.
+- **Site Links** – About, Careers, Help, etc.
+- **Company Info** – Legal and contact information
+- **Social Media Icons** – Facebook, Twitter, Instagram, etc.
+- **Copyright** – Current year and company name
+
+---
+
+### 🧠 Why These Components Matter
+Designing UI as **reusable components**:
+- Simplifies development and testing
+- Increases design consistency across pages
+- Makes it easier to maintain and scale the app
+
+These foundational components will be built using React and styled with CSS (or Tailwind, if selected).
+
+
 
 
 
