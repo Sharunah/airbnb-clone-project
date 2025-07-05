@@ -26,6 +26,42 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 ---
 
+### 🎨 Figma Design Specifications
+
+#### 🎨 Color Styles
+- **Primary Color:** `#FF5A5F` (Airbnb Red)
+- **Secondary Color:** `#008489` (Deep Teal)
+- **Background Color:** `#FFFFFF` (White)
+- **Text Color:** `#222222` (Primary Text)
+- **Secondary Text Color:** `#717171` (Subtle Gray)
+
+---
+
+#### ✒️ Typography
+
+| Use Case         | Font Family | Font Weight | Font Size |
+|------------------|-------------|-------------|-----------|
+| **Primary Text** | Circular    | Medium (500)| 16px      |
+| **Headings**     | Circular    | Bold (700)  | 24px–32px |
+| **Secondary Text**| Circular   | Book (400)  | 14px      |
+
+---
+
+### 🧠 Why Design Properties Matter
+
+Understanding and identifying **design properties** (like colors, fonts, and sizes) in a mockup is essential because:
+
+- 🎯 They maintain **visual consistency** across all pages and components  
+- 🎨 They help ensure **brand identity and professional aesthetics**  
+- 📱 They allow developers to **accurately translate designs into code**  
+- ⚙️ They improve **efficiency** in collaborative team environments (especially with designers and developers)
+- ✅ They ensure the final product aligns with **user expectations and accessibility standards**
+
+By aligning development with Figma's defined styles, we create a polished, user-friendly interface that feels intuitive and cohesive across devices.
+
+
+---
+
 ### 🔑 Key Features to Implement
 - 🔍 **Property Search & Filtering**: Users can browse listings with filters such as location, price, and amenities.
 - 🏠 **Detailed Property Viewing**: Each listing includes high-resolution images, descriptions, and booking options.
